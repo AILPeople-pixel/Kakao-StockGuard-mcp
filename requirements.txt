@@ -1,4 +1,4 @@
 mcp>=1.10.0
-yfinance
-pandas
-uvicorn
+yfinance>=0.2.65
+pandas>=2.2.0
+uvicorn>=0.30.0
