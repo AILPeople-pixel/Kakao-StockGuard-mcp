@@ -1,5 +1,4 @@
-mcp==1.10.1
+mcp>=1.10.0
 yfinance
 pandas
 uvicorn
-sse-starlette
